@@ -37790,7 +37790,7 @@ X.v0.prototype={
 L:function(a){var t=null
 return new T.ub(0.3,new T.tX(C.mS,L.UP("Fidel Chan",A.l8(t,t,C.j,t,t,t,t,t,"Righteous",t,t,t,t,t,t,1.2,!0,1,t,t,t,t,t)),t),t)}}
 X.um.prototype={
-L:function(a){return new T.rX(new U.nl(new L.mm("images/my_profile_pic.jpeg"),null),null)}}
+L:function(a){return new T.rX(new U.nl(new L.mm("assets/images/my_profile_pic.jpeg"),null),null)}}
 E.lc.prototype={
 i:function(a){return this.b}}
 E.oh.prototype={
