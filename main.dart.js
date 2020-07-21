@@ -45407,7 +45407,7 @@ $S:53}
 T.qz.prototype={
 aD:function(){return new T.EB(C.l)}}
 T.EB.prototype={
-K:function(a){return new N.wR("rive/Penguin.flr","walk",C.ko,C.I,null)}}
+K:function(a){return new N.wR("assets/rive/Penguin.flr","walk",C.ko,C.I,null)}}
 Z.Kl.prototype={
 $2:function(a,b){return new A.od(null)},
 $C:"$2",
