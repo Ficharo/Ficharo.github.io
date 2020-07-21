@@ -5,13 +5,13 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "index.html": "1be7099368ad7d8088f3cf7b13530074",
 "/": "1be7099368ad7d8088f3cf7b13530074",
-"main.dart.js": "fb05279331deaae776e86eacc1970f2d",
+"main.dart.js": "8a107fa8083e81c1038a7147085776fc",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "c942661c42538e6fff1aae8663fdfafd",
-"assets/AssetManifest.json": "c4c5cb79a28d0036ac98918e974b61e5",
-"assets/NOTICES": "f9ecb90edfd32ddbbdb0ba8d6898a286",
+"assets/AssetManifest.json": "a289c1bf6fa85874116351520e9e1dd2",
+"assets/NOTICES": "031f532d75aea62c7659df8c01350c7a",
 "assets/FontManifest.json": "3b0c5ef15eed578a1a32dc32fc918c90",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "2aa350bd2aeab88b601a593f793734c0",
@@ -21,6 +21,7 @@ const RESOURCES = {
 "assets/assets/images/Github.png": "eb94bb97c3410733ce017b184d314723",
 "assets/assets/images/my_profile_pic.jpeg": "2df327698485b9f0243ea6053a5cb85f",
 "assets/assets/images/LI.png": "1b18d461ce75c75fdb4d7b6ec08b3e65",
+"assets/assets/rive/Penguin.flr": "479d849d0fdd0429bb0b9a7c93c7a278",
 "assets/assets/fonts/Righteous-Regular.ttf": "77fa00996ecb4104c7880b8749c7c4e0"
 };
 
